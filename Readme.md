@@ -1,7 +1,7 @@
 ##How to run application
 1. Build the solution;
 2. Run WebApi.exe
-3. Open http://127.0.0.1:9001/swagger/index.html
+3. Open http://127.0.0.1:9091/swagger/index.html
 
 Simple test json
 ```json
